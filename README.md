@@ -8,10 +8,10 @@ Ruby on Rails 5.0.0 (hoping it doesn't break)
 
 ### System dependencies
 
-gem devise
-gem simple_form
-gem bootstrap
-gem five-star
+- gem devise
+- gem simple_form
+- gem bootstrap
+- gem five-star
 
 
 <!-- * Configuration
@@ -27,4 +27,4 @@ gem five-star
 * Deployment instructions
 
 * ... -->
-# businessmentorapp
+#### businessmentorapp
