@@ -1,20 +1,20 @@
 # README
 
-Creating a small test app to see if I can get a ratings system to work. If this works, I'll flick it ot the group.
+Creating a small test app to see if I can get a ratings system to work. If this works, I'll flick it to the group.
 
-Things you may want to cover:
-
-* Ruby version
+# Ruby version
 
 Ruby on Rails 5.0.0 (hoping it doesn't break)
 
-* System dependencies
+### System dependencies
 
-gem ajaxful_rating
 gem devise
+gem simple_form
+gem bootstrap
+gem five-star
 
 
-* Configuration
+<!-- * Configuration
 
 * Database creation
 
@@ -26,5 +26,5 @@ gem devise
 
 * Deployment instructions
 
-* ...
+* ... -->
 # businessmentorapp
