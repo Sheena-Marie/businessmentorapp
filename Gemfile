@@ -17,7 +17,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'devise'
 gem 'simple_form'
 gem 'bootstrap-sass'
-gem 'ajaxful_rating'
+gem 'five-star'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
